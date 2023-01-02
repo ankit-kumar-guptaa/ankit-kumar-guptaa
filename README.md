@@ -1,4 +1,3 @@
-### Hi there 👋
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 
 
